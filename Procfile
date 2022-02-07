@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run EVAnalysis_App.py
+web: sh setup.sh && streamlit run SuperMarket_Analysis.py
