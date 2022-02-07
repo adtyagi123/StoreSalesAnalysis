@@ -1,18 +1,15 @@
-# Web App for EV Data analysis using Streamlit and Heroku
+# Store Data Analysis
 
-The deployed web application: https://evcharger-app.herokuapp.com/
+The deployed web application: https://storesales-app.herokuapp.com/
 
-This web app does the following:
-Lets the user select the category of EV data analysis, vehicle type and region
-Prepares bar chart for selected values
-Prepares global EV Charger data over time using plotly bubble chart
-Prepares line chart of EV chargers for selected region
+Application for comparing different parameters that affect the total sales for a store.  
 
 Python library requirements for building this web app:
 * streamlit
 * pandas
 * plotly
-* pycountry
+* seaborn
 
 Data source:
-*[IEA: Global EV Data Explorer](https://www.iea.org/articles/global-ev-data-explorer)
+* Datasource: ** [Kaggle Supermarket Sales Data](https://www.kaggle.com/aungpyaeap/supermarket-sales)
+
