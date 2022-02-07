@@ -11,5 +11,5 @@ Python library requirements for building this web app:
 * seaborn
 
 Data source:
-* Datasource: ** [Kaggle Supermarket Sales Data](https://www.kaggle.com/aungpyaeap/supermarket-sales)
+* Datasource: [Kaggle Supermarket Sales Data](https://www.kaggle.com/aungpyaeap/supermarket-sales)
 
